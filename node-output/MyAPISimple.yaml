@@ -8,7 +8,7 @@ info:
   version: 1.0.1
   title: Simple Inventory API + modifications + additional changes + additional
   contact:
-    email: you@your-company.com
+    email: toto@toto.com
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
