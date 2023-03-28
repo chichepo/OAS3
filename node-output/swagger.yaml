@@ -5,8 +5,8 @@ servers:
     url: https://virtserver.swaggerhub.com/eliechicheportiche/MyAPISimple/1.0.0
 info:
   description: This is a simple API
-  version: "1.0.0"
-  title: Simple Inventory API + modifications
+  version: 1.0.1
+  title: Simple Inventory API + modifications + additional changes + additional
   contact:
     email: you@your-company.com
   license:
