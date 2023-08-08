@@ -54,7 +54,7 @@
         }, {
           "name" : "limit",
           "in" : "query",
-          "description" : "maximum number of records to return",
+          "description" : "the maximum number of records to return",
           "required" : false,
           "style" : "form",
           "explode" : true,
