@@ -2,7 +2,7 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "Simple Inventory API - elie",
-    "description" : "This is a simple API with some other modifications\n",
+    "description" : "titi - This is a simple API with some other modifications\n",
     "contact" : {
       "email" : "toto@toto.com"
     },
