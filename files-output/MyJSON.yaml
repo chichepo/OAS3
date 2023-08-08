@@ -17,7 +17,7 @@
   } ],
   "tags" : [ {
     "name" : "admins",
-    "description" : "toto - Secured Admin-only calls"
+    "description" : "toto - tutu - Secured Admin-only calls"
   }, {
     "name" : "developers",
     "description" : "titi - tata - Operations available to regular developers"
